@@ -1,0 +1,12 @@
+1. Some Schooling (disabled)
+2. Grade 9
+3. Grade 10
+4. Grade 11
+5. Grade 12 / Matric (disabled)
+6. Certificate
+7. Diploma
+8. Degree
+9. Honours
+10. Professional Qualification
+11. Masters
+12. Doctorate
