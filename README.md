@@ -13,7 +13,7 @@ cd to the created folder
 composer install
 ```
 
-This service is configured to on the following url:
+This service is configured to run on this url, please use the following to start the php server:
 
 ```
 $ php -S http://localhost:9000
