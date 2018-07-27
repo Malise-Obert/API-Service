@@ -19,5 +19,8 @@ This service is configured to run on this url, please use the following to start
 $ php -S http://localhost:9000
 ```
 
-### Please note that the app will requires php 7.2.0.
+### Please note that the app require php 7.2.0. 
+
+The service needs to have the required resource text file created on the root. An example file is already included in the repository.
+
 
